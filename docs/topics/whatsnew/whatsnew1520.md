@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.5.20)
 
-_[Released: 24 June 2021](releases.md#release-details)_
+<web-summary>Read the Kotlin 1.5.20 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: 24 June 2021](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 Kotlin 1.5.20 has fixes for issues discovered in the new features of 1.5.0, and it also includes various tooling improvements.
 

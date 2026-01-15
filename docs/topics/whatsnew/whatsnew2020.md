@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 2.0.20)
 
-_[Released: August 22, 2024](releases.md#release-details)_
+<web-summary>Read the Kotlin 2.0.20 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: August 22, 2024](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 The Kotlin 2.0.20 release is out! This version includes performance improvements and bug fixes for Kotlin 2.0.0, where we
 announced the Kotlin K2 compiler as Stable. Here are some additional highlights from this release:

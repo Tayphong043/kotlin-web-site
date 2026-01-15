@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.4.20)
 
-_[Released: 23 November 2020](releases.md#release-details)_
+<web-summary>Read the Kotlin 1.4.20 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: 23 November 2020](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 Kotlin 1.4.20 offers a number of new experimental features and provides fixes and improvements for
 existing features, including those added in 1.4.0.

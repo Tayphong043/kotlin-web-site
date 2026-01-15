@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 2.0.0)
 
-_[Released: May 21, 2024](releases.md#release-details)_
+<web-summary>Read the Kotlin 2.0.0 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: May 21, 2024](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 The Kotlin 2.0.0 release is out and the [new Kotlin K2 compiler](#kotlin-k2-compiler) is Stable! Additionally, here are
 some other highlights:

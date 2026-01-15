@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.1)
 
+<web-summary>Read the Kotlin 1.1 release notes covering new language features, updates to Kotlin/JVM, and JS, and build tool support for Gradle and Maven.</web-summary>
+
 _Released: 15 February 2016_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 ## Table of contents
 

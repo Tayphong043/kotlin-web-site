@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.4.30)
 
-_[Released: 3 February 2021](releases.md#release-details)_
+<web-summary>Read the Kotlin 1.4.30 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: 3 February 2021](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 Kotlin 1.4.30 offers preview versions of new language features, promotes the new IR backend of the Kotlin/JVM compiler to
 Beta, and ships various performance and functional improvements.

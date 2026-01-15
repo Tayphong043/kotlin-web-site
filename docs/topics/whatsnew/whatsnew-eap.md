@@ -4,6 +4,8 @@
 
 _[Released: %kotlinEapReleaseDate%](eap.md#build-details)_
 
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
+
 <!--
 > This document doesn't cover all of the features of the Early Access Preview (EAP) release,
 > but it highlights some major improvements.

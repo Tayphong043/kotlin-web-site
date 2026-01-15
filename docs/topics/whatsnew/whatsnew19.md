@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.9.0)
 
-_[Release date: July 6, 2023](releases.md#release-details)_
+<web-summary>Read the Kotlin 1.9.0 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Release date: July 6, 2023](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 The Kotlin 1.9.0 release is out and the K2 compiler for the JVM is now in **Beta**. Additionally, here are some of the main highlights:
 

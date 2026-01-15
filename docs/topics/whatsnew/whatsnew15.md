@@ -1,6 +1,10 @@
 [//]: # (title: What's new in Kotlin 1.5.0)
 
-_[Released: 5 May 2021](releases.md#release-details)_
+<web-summary>Read the Kotlin 1.5.0 release notes covering new language features, updates to Kotlin Multiplatform, JVM, Native, JS, and Wasm, and build tool support for Gradle and Maven.</web-summary>
+
+_[Released: 5 May 2021](releases.md#release-history)_
+
+<tldr><p>For information about the Kotlin release cycle, see <a href="releases.md">Kotlin release process</a>.</p></tldr>
 
 Kotlin 1.5.0 introduces new language features, stable IR-based JVM compiler backend, performance improvements,
 and evolutionary changes such as stabilizing experimental features and deprecating outdated ones.
